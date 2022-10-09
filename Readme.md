@@ -6,3 +6,5 @@ readme by Rogozina Nataliia IDM-22-07 for INET-2022
 
 
 [Веб-страница с отчетом по лабораторным работам](https://fireru277.github.io/inet2022/)
+
+[Билет к экзамену](https://github.com/stankin/inet-2022/wiki/exam28)
